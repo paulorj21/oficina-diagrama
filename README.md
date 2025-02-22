@@ -17,7 +17,7 @@ Projeto conceitual de um Banco de Dados feito para o desafio de projeto **"Const
 
 - O valor de cada peça também irá compor a OS
 
-- O cliete autoriza a execução dos serviços
+- O cliente autoriza a execução dos serviços
 
 - A mesma equipe avalia e executa os serviços
 
