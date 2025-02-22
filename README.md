@@ -8,7 +8,7 @@ Projeto conceitual de um Banco de Dados feito para o desafio de projeto **"Const
 
 ## Narrativa
 
-#### **Sistema de cotrole e gerenciamento de ordens de serviço de uma oficina mecânica**
+#### **Sistema de controle e gerenciamento de ordens de serviço de uma oficina mecânica**
 - Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões periódicas
 
 - Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega
